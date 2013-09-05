@@ -1,0 +1,17 @@
+.yith_magnifier_gallery {
+	margin: -10px 0 0 0;
+	padding: 0;
+}
+.yith_magnifier_gallery li {
+	position: relative;
+	float: left;
+	display: block;
+}
+.yith_magnifier_gallery li a {
+	width: 100% !important;
+	display: block;
+	margin-top: 10px;
+	height: auto !important;
+}
+
+span.onsale { z-index: 10000 }

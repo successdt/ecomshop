@@ -1,0 +1,68 @@
+*** Compare Products Pro Changelog ***
+
+2013.02.23 - version 2.0.7
+* Feature: All plugin code updated to be 100% compatible with WooCommerce version 2.0 and backwards.
+* Feature: Replaced Compare pop-up fly out powered by Fancybox and Lightbox tools with Product Comparisons opening in a new window. WooCommerce Version 2.0 uses PrettyPhoto as the pop-up tool and we found supporting 3 pop-up scripts, PrettyPhoto, Fancybox and Lightbox very buggy and troublesome so have completely replaced it.
+* Feature: Added show Comparison in new widow options. Option 1. Show the product Comparison in an on-screen pop-up window or Option 2. Show Comparisons in a new window.
+* Feature: Added Fixed Features Title column. This means when more than 3 products are being compared in the pop up window or on page comparison the products scroll under the Features title column - the user always can see what product features are being compared.
+* Feature: Added Compared Table scrolls horizontal and vertical via the window scrollers not by scrollers on an inner container. Looks fantastic.
+* Feature: Completely reworked the Print Comparison function. The Print function now works beatifully with added print style. Prints the entire tall of 3 products Comparison columns regardless of the tall of the columns.
+
+2013.01.21 - version 2.0.6
+* manage_woocommerce capability for menus
+
+2013.01.08 - version 2.0.5
+* Feature: Added support for Chinese Characters
+* Tweak: UI tweak - changed the order of the admin panel tabs so that the most used Features tab is moved to first tab.
+
+2012.12.14 - version 2.0.4
+* Fixed: Updated depreciated custom database collator $wpdb->supports_collation() with new WP3.5 function $wpdb->has_cap( 'collation' ). Supports backward version compatibility.
+* Fixed: When Product attributes are auto created as Compare Features, if the Attribute has no terms then the value input field is created as Input Text - Single line instead of a Checkbox.
+* Fixed: On Compare Products admin tab, ajax not able to load the products list again after saving a product edit
+
+2012.12.04 - version 2.0.3
+ * New updater
+
+2012.11.16 - version 2.0.2
+* Fixed: All Product Parent Variations auto added as Compare Features when the plugin is first activated.
+
+2012.08.14 - version 2.0.1
+* Changed - attributes terms where auto created as Compare Feature input type 'dropdown' (single select). Changed to input type 'check box' (multi-select)
+* Documentation - Added comprehensive extension documentation
+* Localization - Added Turkish translation thanks to ManusH
+* Tweak: Set database table name to be created the same as WordPress table type
+* Tweak - Change localization file path from actual to base path
+* Tweak - Corrected typo on Compare pop-up window
+
+2012.08.03 - version 2.0
+* Feature - All Product Categories and Sub Categories are auto created as Compare Categories when plugin is activated. Feature is activated on upgrade.
+* Feature - All Product Parent Variations auto added to Master Category as Compare Features when the plugin is first activated.
+* Feature - When Product Categories or Sub categories are created they are auto created as Compare categories. The plugin only listens to Create new so edits to Product categories are ignored.
+* Feature: When parent product variations are created they are auto created as Compare Features. Child product variations and edits are ignored.
+* Feature - Complete rework of admin user interface - Combined Features and Categories tabs into a single tab - Added Products Tab. Greatly enhanced user experience and ease of use.
+* Feature - Moved Create New Categories and Features to a single edit on-page assessable from an 'add new' button on Features tab.
+* Feature - Added Features search facility for ease of finding and editing Compare Features.
+* Feature - Added support for use of special characters in Feature Fields.
+* Feature - Added support for use of Cyrillic Symbols in Feature Fields.
+* Feature - Added support for use of sup tags in Feature Fields.
+* Feature - Language file added to support localization ? looking for people to do translations.
+* Feature - Created plugin documents on a3rev wiki.
+* Fixed - Can't create Compare Feature if user does not have a default value set in SQL. Changed INSERT INTO SQL command output to cater for this relatively rare occurrence.
+* Tweak - Replaced all Category Edit | Delete icons with WordPress link text. Replace edit icon on Product Update table with text link.
+* Tweak - Edited Product update table to fit 100% wide on page so that the horizontal scroll bar does not auto show.
+* Tweak - Edited the way that Add Compare Features shows on product edit page - now same width as the page content.
+* Tweak - Show Compare Featured fields on products page - added support for theme table css styling.
+* Tweak - Adding padding between Product name and the Clear All - Compare button in sidebar widget.
+* Tweak - Added yellow Pro update frame and dialogue box so its clear what features are activated on upgrade.
+* Other - Create script to facilitate seamless upgrade from Version 1.04 to Major upgrade Version 2.0
+* Other - Created and added WooCommerce Compare Products video to Wordpress plugins page
+
+2012.07.18 - version 1.1.1
+* Tweak - Update language file.
+
+2012.06.08 - version 1.1
+ * Fixed: Admin Tool Tips not showing and Products manager feature not loading on the Products tab by adding jQuery tipTip script.
+ * Fixed: Button Position relative to Add to Cart Button set px padding not working.
+ * Fixed: Change add_action from woocommerce_after_add_to_cart_button to woocommerce_after_template_part to fix the Compare button not showing when site is using the Catalog Visibility extension to disable Purchase function.
+ * Fixed: Add to Cart button showing on products in pop up when Catalog Visibility extension had disbale the Add to Cart Button and price for the product. Added custom code to auto check Show or Hide Price and Add to Cart button and display in pop-up as it does on the product page.
+ * Tweak: Complete UI overhaul of the Thickbox pop up display on Products Feature manager.

@@ -1,0 +1,84 @@
+.tp-caption.monda_grey_24{
+	position: absolute;
+	color: #393838;
+	text-shadow: none;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 24px;
+	font-family: 'Monda',sans-serif;
+	padding: 1px 4px 0px;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	background-color:none;
+	letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.tp-caption.monda_white_18{
+	position: absolute;
+	color: #ffffff;
+	text-shadow: none;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 24px;
+	font-family: 'Monda',sans-serif;
+	padding: 1px 4px 0px;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	background-color:none;
+	letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.tp-caption.monda_orange_18{
+	position: absolute;
+	color: #b16d0c;
+	text-shadow: none;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 24px;
+	font-family: 'Monda',sans-serif;
+	padding: 1px 4px 0px;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	background-color:none;
+	letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.tp-caption.monda_white_16{
+	position: absolute;
+	color: #ffffff;
+	text-shadow: none;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: 'Monda',sans-serif;
+	padding: 1px 4px 0px;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	background-color:none;
+	letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.tp-caption.monda_orange_16{
+	position: absolute;
+	color: #ffe0c5;
+	text-shadow: none;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: 'Monda',sans-serif;
+	padding: 1px 4px 0px;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	background-color:none;
+	letter-spacing: 0;
+    white-space: nowrap;
+}

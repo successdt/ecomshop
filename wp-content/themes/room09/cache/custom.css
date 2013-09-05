@@ -1,0 +1,252 @@
+.slider-thumbnails.slider.thumbnails .showcase-caption p { font-size: 13px; font-family: 'Monda', sans-serif; color: #585555; font-style: normal; font-weight: 400; }
+.slider-thumbnails.slider.thumbnails div.showcase-tooltip { font-size: 12px; font-family: 'Muli', sans-serif; color: #000; font-style: normal; font-weight: 400; }
+.slider-polaroid.slider .slide-content h2, .slider-polaroid.slider .slide-content h2, .text-polaroid h2 { font-size: 24px; font-family: 'Open Sans', sans-serif; color: #e5f99a; font-style: normal; font-weight: 800; }
+.slider-polaroid.slider .slide-content p, .slider-polaroid.slider .slide-content p, .text-polaroid p { font-size: 12px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+.slider-flexslider-elegant.slider ul li .slider-caption h2, .slider-flexslider-elegant.slider ul li .slider-caption h2 a { font-size: 17px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 700; }
+.slider-flexslider-elegant.slider ul li .slider-caption p { font-size: 12px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+.slider-flexslider-elegant.slider ul li .slider-caption .special-font { font-size: 24px; font-family: 'Shadows Into Light', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+.slider-elastic .ei-title h2, .slider-elastic .ei-title h2 a { font-size: 33px; font-family: 'Monda', sans-serif; color: #ffffff; font-style: italic; font-weight: normal; }
+.slider-elastic .ei-title h3, .slider-elastic .ei-title h3 a { font-size: 24px; font-family: 'Monda', sans-serif; color: #e6cb9c; font-style: normal; font-weight: 400; }
+#maintenance_message { font-size: 15px; font-family: 'Monda', sans-serif; color: #5b5b5b; font-style: normal; font-weight: 400; }
+#maintenance_newsletter .newsletter-section input.text-field, #maintenance_newsletter .newsletter-section label { font-size: 12px; font-family: 'Monda', sans-serif; color: #949494; font-style: normal; font-weight: 400; }
+#maintenance_newsletter .newsletter-section input.submit-field { font-size: 10px; font-family: 'Monda', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+.post-title, .post-title a, .blog-big .meta .post-title a, .blog-small .meta .post-title a { font-size: 18px; font-family: 'Monda', sans-serif; color: #373736; font-style: normal; font-weight: 400; }
+.blog-big-ribbon .date-comments .date .month, .blog-small-ribbon .date-comments .date .month, .section.blog .post .date .month { font-size: 24px; font-family: 'Josefin Sans', sans-serif; color: #2f2f2f; font-style: normal; font-weight: 700; }
+.blog-big-ribbon .date-comments .date .day, .blog-small-ribbon .date-comments .date .day, .section.blog .post .date .day { font-size: 50px; font-family: 'Josefin Sans', sans-serif; color: #2f2f2f; font-style: normal; font-weight: 700; }
+.post-title:hover, .post-title a:hover, .blog-big .meta .post-title a:hover,
+                            .blog-small .meta .post-title a:hover, .blog-bazar .blog-bazar-header .post-title:hover, .blog-bazar .blog-bazar-header .post-title a:hover,
+                            .hentry-post .post-title > a:hover { font-size: 18px; font-family: 'Monda', sans-serif; color: #D98104; font-style: normal; font-weight: 400; }
+.blog-big-ribbon .date-comments .comments, .blog-small-ribbon .date-comments .comments { background-color: #C27D05; }
+.blog-big-image .blog-big-image-date .month, .blog-small-image .blog-small-image-date .month { font-size: 24px; font-family: 'Josefin Sans', sans-serif; color: #2f2f2f; font-style: normal; font-weight: 400; }
+.blog-big-image .blog-big-image-date .day, .blog-small-image .blog-small-image-date .day { font-size: 50px; font-family: 'Josefin Sans', sans-serif; color: #2f2f2f; font-style: normal; font-weight: 700; }
+#copyright { background: #93866d; background-image: url(''); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+#footer { background-color: #93866d; background-image: url('http://yourinspirationtheme.com/demo/room09/wp-content/themes/room09/images/bg-footer.png'); background-repeat: no-repeat; background-position: top center; background-attachment: scroll; }
+#copyright .container { border-color: #aa9d82; }
+.boxed #wrapper { background-color: #ffffff; }
+code, pre, body hr, #copyright .inner, #footer .inner, .gallery img, .gallery img, .content .archive-list ul, .content .archive-list ul li, 
+.more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img,
+.thumb-project img, #searchform input, .portfolio-categories ul li, .portfolio-categories ul li:hover, .recent-comments .avatar img,
+.content .contact-form li.submit-button input, #portfolio .read-more, #portfolio .more-link, #portfolio .read-more:hover,
+#portfolio .more-link:hover, .accordion-title, .accordion-item-thumb img, form input[type="text"], form textarea, .testimonial-page,
+div.section-caption .caption, .line, .last-tweets-widget ul li, .toggle p.tab-index, .toggle .content-tab, .testimonial,
+.google-map-frame, .section.blog .post, .section.blog h4.other-articles, .section.blog .sticky .thumbnail, .section .portfolio-sticky .work-categories,
+.testimonial, #searchform input, .blog-big .meta p, .blog-big p.list-tags, .blog-small .image-wrap, .comment-container, .image-square-style #comments img.avatar,
+#comments .comment-author img, .comment-meta, #respond input, #respond textarea, img.comment-avatar, .portfolio-big-image a.thumb, .portfolio-big-image a.more,
+.portfolio-big-image a.more:hover, .portfolio-big-image .work-thumbnail a.nozoom, .portfolio-big-image .work-skillsdate, .internal_page_item, .gallery-wrap li h5,
+.gallery-filters, .portfolio-full-description a.thumb, .portfolio-full-description a.more, .portfolio-full-description a.more:hover,
+.portfolio-full-description .work-skillsdate, .related_img, #portfolio.columns .overlay_a, .yit-widget-content .widget,
+.slider.thumbnails .showcase-thumbnail img, .slider.thumbnails .showcase-thumbnail img:hover, .slider.thumbnails .showcase-thumbnail.active img,
+.recent-post .thumb-img img, .widget_archive ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li a, .widget_nav_menu ul li a:hover,
+.widget_pages ul li a, .widget_pages ul li a:hover, .widget_categories ul li a, .widget_categories ul li a:hover, #searchform input,
+.widget_flickrRSS img, .widget_nav_menu ul li a, .widget_pages ul li a, .widget_categories ul li a, .widget_archive ul li a:hover,
+.widget_nav_menu ul li.current_page_item > a, .widget_pages ul li.current_page_item > a, .widget_categories ul li.current_page_item > a,
+.testimonial-widget div.name-testimonial, .last-tweets-widget ul li, .yit-widget-content .widget, .portfolio-categories ul li, .recent-comments .avatar img,
+.more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img, .picture_overlay,
+#respond textarea:focus, .section-portfolio-classic .work-projects a.img, .border, #header-cart-search .cart-items, #header-cart-search .cart-subtotal,
+#header-cart-search .widget_shopping_cart .cart_control, #nav .container, .sitemap h3, .woocommerce.archive .sidebar .widget h3, #copyright .border,
+#topbar .widget_search_mini, .topbar-border, .faq-filters-container, .woocommerce .cart-collaterals .cart_totals,
+.woocommerce table, .woocommerce table.shop_table, .woocommerce-page table.shop_table, .ie_border, .woocommerce form.login,
+.woocommerce .woocommerce_checkout_coupon, .woocommerce form.register, .woocommerce-page form.login, .woocommerce-page .woocommerce_checkout_coupon, .woocommerce-page form.register,
+.woocommerce-account .woocommerce form, .woocommerce .address,
+.woocommerce div.product .product_title,
+.single-layout-2.woocommerce div.product div.images img, .woocommerce div.product div.images .thumbnails img, .single-layout-2.woocommerce .woocommerce-tabs ul.tabs
+#primary .woocommerce div.product table.variations, .woocommerce div.product table.variations td, .blog-big-image-meta > div, .blog-big-image-meta p,
+.single-product.woocommerce div.product .related-products h2, .woocommerce .content #page-meta, .single-product.woocommerce div.product div.images .thumbnails img,
+
+.single-product.woocommerce div.product table.variations td, .single-product.woocommerce div.product .single_variation_wrap span.label, .single-product.woocommerce div.product .single_variation_wrap span.value,
+.woocommerce table:after, .woocommerce-page .woocommerce_checkout_coupon:after, .woocommerce .woocommerce_checkout_coupon:after, .woocommerce .address:after, .woocommerce-account .woocommerce form:after, .woocommerce form.checkout_coupon:after,
+.single-product.woocommerce div.product .product_title, .single-product.woocommerce div.product .related.products h2,
+
+.team-professional ul li .padding, .blog-big-image-meta > div, .blog-big-image-meta-single > div, .blog-big-image .the-content-quote blockquote, .the-content-list > div,
+.thumb-img img, .recent-post .thumb-img img, .sidebar .recent-post .thumb-img img, .recent-post .thumb-img img, .blog-big-ribbon .thumbnail, .blog-small-ribbon .thumbnail,
+.single-post .blog-big-ribbon .the-content p:last-child, #portfolio.filterable .ch-item, .error404 .border-img-bottom, .error404 .error-404-text, .error404 .error-404-search, .error-404-search input#s,
+.faq-title, .recent-post .hentry-post, .toggle h4.tab-index,
+
+
+.blog-big-image-meta > div:after, .blog-big-image .blog-big-image-date:after, .blog-big-image .post-title, .teaser .image img, ul.filters, #map .view-map a,
+
+.woocommerce ul.products li.product.grid.classic.with-border a.thumb,
+
+div.yit_quick_contact, .woocommerce ul.cart_list li, .woocommerce-page ul.cart_list li, .woocommerce ul.product_list_widget li,
+.woocommerce-page ul.product_list_widget li, .woocommerce.widget_best_sellers, .sidebar .recent-post .hentry-post,
+.sidebar .recent-comments .border, .testimonial-widget li blockquote, .almost-all-categories ul > li, .sidebar .home-widget.contact-info ul li, .sidebar .widget.contact-info ul li,
+#footer .widget.contact-info ul li, .yit_toggle_menu ul.menu li a, .widget.widget_layered_nav li, .widget_product_categories .product-categories li,
+.widget.widget_layered_nav li small.count, .widget_product_categories .product-categories li span.count,
+
+.page-template-home-php .home-row .home-widget .widget-wrap:before, .page-template-home-php .home-row .home-widget .widget-wrap.widget-last:before,
+.sidebar .widget.text-image .widget-wrap:before,
+
+.boxed #header-container .innerborder,
+.boxed #header-cart:after { border-color: #d3d2d2; }
+.portfolio-big-image .work-thumbnail .thumb-wrapper:hover, .related_project .related_img:hover, .portfolio-categories ul li:hover, #portfolio .more-link:hover, .portfolio-big-image a.more:hover, #portfolio.columns .overlay_a:hover, .showcase-thumbnail img:hover, .widget_archive ul li a:hover, .widget_nav_menu ul li a:hover, .widget_pages ul li a:hover, .widget_categories ul li a:hover, .picture_overlay:hover, .section-portfolio-classic .work-projects a.img:hover, .section-portfolio-classic .work-projects a.img.active,
+#portfolio.filterable .ch-item-hover:hover, #portfolio.filterable .ch-item-opened { border-color: #cccccc; }
+.woocommerce.widget_best_sellers .border, .woocommerce.widget_best_sellers .border ul.product_list_widget li, .page-template-home-php .home-row .home-widget .widget-wrap, .page-template-home-php .home-row .home-widget .widget-wrap.widget-last, .sidebar .widget.text-image .widget-wrap,
+.blog-big-image-meta > div:after, .blog-big-image-meta-single > *:after, .blog-big-image .the-content-quote blockquote:after, .woocommerce .address:after,
+.the-content-list > div:after, .blog-small-image .blog-small-image-date:after, .blog-small-image-meta p, .faq-filters, .woocommerce table:after, .woocommerce table.shop_table td, .woocommerce-page table.shop_table td,
+.woocommerce-account .woocommerce form:after, .woocommerce .woocommerce_checkout_coupon:after, .woocommerce .cart-collaterals .cart_totals:after, .woocommerce table.shop_table tfoot td, .woocommerce table.shop_table tfoot th, .woocommerce-page table.shop_table tfoot td, .woocommerce-page table.shop_table tfoot th,
+.order-info:after,
+
+.boxed #header-container .span12 > div.border, .boxed #header-container .span10 > div.border, .boxed #header-container .span2 > div.border, .boxed #header-container #header-cart .border { border-color: #ededec; }
+.section-services-bandw .service-wrapper .service .read-more a, .not-btn.more-link, .not-btn.read-more, #portfolio .read-more, #portfolio .more-link, #respond #commentsubmit { background-color: #605f5e; }
+.section-services-bandw .service-wrapper .service .read-more a:hover, .not-btn.more-link:hover, .not-btn.read-more:hover, #portfolio .read-more:hover, #portfolio .more-link:hover, #respond #commentsubmit:hover { background-color: #bc7f3e; }
+.teaser .image p, .teaser .image p a, .yit_quick_contact .contact-form li.submit-button input.sendmail, .sidebar .cta .newsletter-submit .submit-field, #footer .cta .newsletter-submit .submit-field, .home-widget .newsletter-call3 .newsletter-submit .submit-field { background-color: #BC7F3E; color: #FFFFFF; }
+.teaser .image p:hover, .teaser .image p a:hover, .yit_quick_contact .contact-form li.submit-button input.sendmail:hover, .sidebar .cta .newsletter-submit .submit-field:hover, #footer .cta .newsletter-submit .submit-field:hover, .home-widget .newsletter-call3 .newsletter-submit .submit-field:hover { background-color: #E79C0C; }
+.teaser .image p:hover, .yit_quick_contact .contact-form li.submit-button input.sendmail:hover, .sidebar .cta .newsletter-submit .submit-field:hover, #footer .cta .newsletter-submit .submit-field:hover, .home-widget .newsletter-call3 .newsletter-submit .submit-field:hover { color: #FFFFFF; }
+#back-top { background-color: #93866d; }
+#header { background-color: #CFC8C0; background-image: url('http://yourinspirationtheme.com/demo/room09/wp-content/themes/room09/images/header-bg.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: scroll; min-height: 150px; }
+#header-container .span12, #header-container .span10, #header-container .span2 { background-color: #ffffff; background-color: rgba( 255, 255, 255, 0.94 ); }
+#header-container .span12 > div.border, #header-container .span10> div.border, #header-container .span2> div.border { border-color: #d3d2d2; }
+#nav ul.sub-menu, #nav ul.children { background-color: #ffffff; }
+#nav .megamenu ul.sub-menu li.menu-item-custom-content p { color: #a6a3a3; }
+#nav .megamenu ul.sub-menu li.menu-item-custom-content span.highlight { color: #5b5959; }
+#nav .megamenu ul.sub-menu li { border-color: #e9e9e9; }
+.error-404-text p, .error-404-text p a { font-size: 16px; font-family: 'Monda', sans-serif; color: #808080; font-style: normal; font-weight: 400; }
+.error-404-text p a { color: #c19537; }
+.error-404-text p a:hover { color: #d58f2c; }
+#popupWrap div.popup h3.title { font-size: 20px; font-family: 'Monda', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
+div.popup, div.popup_message, div.popup_message p, div.popup_message span { font-size: 12px; font-family: 'Monda', sans-serif; color: #747373; font-style: normal; font-weight: 400; }
+#portfolios { background: #ffffff url('http://yourinspirationtheme.com/demo/room09/wp-content/themes/room09/images/backgrounds/032.jpg'); font-size: 18px; font-family: 'Abel', sans-serif; color: #000000; font-style: italic; font-weight: 700; }
+div.box.success-box { font-size: 12px; font-family: 'Monda', sans-serif; color: #599847; font-style: normal; font-weight: 400; }
+div.box.arrow-box { font-size: 12px; font-family: 'Monda', sans-serif; color: #599847; font-style: normal; font-weight: 400; }
+div.box.alert-box { font-size: 12px; font-family: 'Monda', sans-serif; color: #CA6B1C; font-style: normal; font-weight: 400; }
+div.box.error-box { font-size: 12px; font-family: 'Monda', sans-serif; color: #883333; font-style: normal; font-weight: 400; }
+div.box.notice-box { font-size: 12px; font-family: 'Monda', sans-serif; color: #9F6722; font-style: normal; font-weight: 400; }
+div.box.info-box { font-size: 12px; font-family: 'Monda', sans-serif; color: #277DCE; font-style: normal; font-weight: 400; }
+div.box-sections h1, div.box-sections h2, div.box-sections h3, div.box-sections h4, div.box-sections h5, div.box-sections h6, div.box-sections h1 span, div.box-sections h2 span, div.box-sections h3 span, div.box-sections h4 span, div.box-sections h5 span, div.box-sections h6 span { font-size: 16px; font-family: 'Monda', sans-serif; color: #51595D; font-style: normal; font-weight: 400; }
+.call-to-action .incipit h2 { font-size: 20px; font-family: 'Monda', sans-serif; color: #0C243D; font-style: normal; font-weight: 400; }
+.call-to-action .incipit p { font-size: 14px; font-family: 'Monda', sans-serif; color: #464444; font-style: normal; font-weight: 400; }
+.call-to-action .number-phone, .call-to-action .number-phone a { font-size: 42px; font-family: 'Monda', sans-serif; color: #838383; font-style: normal; font-weight: 700; }
+.call-to-action-two .incipit { font-size: 20px; font-family: 'Monda', sans-serif; color: #2c2b2b; font-style: normal; font-weight: 400; }
+.call-to-action-two { background-color: #eeeeee; border-color: #cfcece; }
+.call-three .text h2 { font-size: 20px; font-family: 'Monda', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+.call-three .text h4 { font-size: 16px; font-family: 'Monda', sans-serif; color: #696464; font-style: normal; font-weight: 400; }
+div.call-three { background-color: #f8f7f7; border-color: #f2f0f0; }
+.recent-post .text > a { font-size: 12px; font-family: 'Monda', sans-serif; color: #282726; font-style: normal; font-weight: 400; }
+.recent-post .text > a:hover { color: #a86e24; }
+.sidebar .recent-post p, .recent-post p { font-size: 11px; font-family: 'Monda', sans-serif; color: #8e8a83; font-style: normal; font-weight: 400; }
+.recent-post .hentry-post p.post-date { font-size: 11px; font-family: 'Monda', sans-serif; color: #8e8a83; font-style: normal; font-weight: 400; }
+.recent-post .text > a.read-more { font-size: 11px; font-family: 'Monda', sans-serif; color: #585555; font-style: normal; font-weight: 700; }
+.recent-post .text > a.read-more:hover { color: #d98104; }
+.tabs-container ul.tabs li h4 a { font-size: 18px; font-family: 'Monda', sans-serif; color: #8d8d8d; font-style: normal; font-weight: 400; }
+.tabs-container ul.tabs li h4 a:hover { color: #000000; }
+.tabs-container ul.tabs li.current h4 a { color: #0c243d; }
+.pricing_box.large .header h3 { font-size: 17px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 800; }
+.pricing_box .header h3 { font-size: 17px; font-family: 'Open Sans', sans-serif; color: #585555; font-style: normal; font-weight: 800; }
+.pricing_box h3 { font-size: 17px; font-family: 'Open Sans', sans-serif; color: #585555; font-style: normal; font-weight: 700; }
+.pricing_box p.button a, .pricing_box p.button a:hover { font-size: 14px; font-family: 'Open Sans', sans-serif; color: #3f4950; font-style: normal; font-weight: 400; }
+.pricing_box, .pricing_box p, .pricing_box ul li { font-size: 12px; font-family: 'Open Sans', sans-serif; color: #808080; font-style: normal; font-weight: 400; }
+div.last-tweets-widget ul.tweets-widget li p, div.last-tweets-widget ul.tweets-widget li p a { font-size: 12px; font-family: 'Monda', sans-serif; color: #676768; font-style: normal; font-weight: 400; }
+div.last-tweets-widget ul.tweets-widget li p a { color: #aa620d; }
+div.last-tweets-widget ul.tweets-widget li p a:hover { color: #d98104; }
+ul.short li { font-size: 12px; font-family: 'Monda', sans-serif; color: #676768; font-style: normal; font-weight: 400; }
+.toggle h4.tab-index a, .toggle h4.tab-index a:hover { font-size: 16px; font-family: 'Monda', sans-serif; color: #3e3e3e; font-style: normal; font-weight: 400; }
+.toggle .content-tab, .toggle .content-tab p { font-size: 12px; font-family: 'Monda', sans-serif; color: #676768; font-style: normal; font-weight: 400; }
+.contact-info .sidebar-nav ul li { font-size: 12px; font-family: 'Monda', sans-serif; color: #676768; font-style: normal; font-weight: 400; }
+div.icon_list h2 { font-size: 15px; font-family: 'Monda', sans-serif; color: #2c2b2b; font-style: normal; font-weight: 400; }
+div.icon_list ul li, div.icon_list ul li a { font-size: 15px; font-family: 'Monda', sans-serif; color: #676768; font-style: normal; font-weight: 400; }
+div.icon_list ul li a { color: #000000; }
+div.icon_list ul li a:hover { color: #d98104; }
+.faq-title .minus { background-color: #C58408; }
+.faq-title .plus { background-color: #2C2B2B; }
+.testimonial .testimonial-text p, .testimonial .testimonial-text-full p, .testimonial-page .testimonial-text-full p { font-size: 12px; font-family: 'Monda', sans-serif; color: #585555; font-style: normal; font-weight: 400; }
+.testimonial .testimonial-name a.name, .testimonial .testimonial-name p.name, .testimonial-page .testimonial-name a.name, .testimonial-page .testimonial-name p.name { font-size: 14px; font-family: 'Monda', sans-serif; color: #ab5705; font-style: normal; font-weight: 400; }
+.testimonials-slider ul.testimonials li blockquote p a, .testimonials-flexslider ul li blockquote p a { font-size: 24px; font-family: 'Monda', sans-serif; color: #747373; font-style: normal; font-weight: 400; }
+.testimonials-slider ul.testimonials li p.meta, .testimonials-slider ul.testimonials li p.meta a, .testimonials-flexslider ul li p.meta a { font-size: 13px; font-family: 'Monda', sans-serif; color: #aa620d; font-style: normal; font-weight: 400; }
+.testimonial .testimonial-name a.website, .testimonial .testimonial-name span.website, .testimonial-page .testimonial-name a.website, .testimonial-page .testimonial-name span.website { font-size: 12px; font-family: 'Monda', sans-serif; color: #1c1c1c; font-style: normal; font-weight: 400; }
+.testimonial blockquote { font-size: 14px; font-family: 'Monda', sans-serif; color: #2e2d2d; font-style: normal; font-weight: 400; }
+.testimonials-slider ul.testimonials li p.meta a:hover, .testimonials-flexslider ul li p.meta a:hover { color: #3e3d3d; }
+#footer, #footer p, #footer li, #footer a, #footer .widget.contact-info ul li, #footer .widget.contact-info ul li p, #footer .recent-comments .the-post .author, #footer .text-image { font-size: 12px; font-family: 'Monda', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+#footer .container a, #footer .widget.contact-info ul li strong { color: #ffffff; }
+#footer .container a:hover { color: #fcd29a; }
+#footer h3 { font-size: 13px; font-family: 'Monda', sans-serif; color: #fee1bb; font-style: normal; font-weight: 400; }
+#copyright, #copyright div p, #copyright p, #copyright a, #copyright p a, #copyright div p a { font-size: 10px; font-family: 'Monda', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+#copyright a, #copyright div a, #copyright div p a { color: #fdc992; }
+#copyright a:hover, #copyright div a:hover, #copyright div p a:hover { color: #e3910f; }
+a, p, li, address, dd, blockquote, td, th, .paragraph-links a, a.text-color, ul.filters li a, .menu-select select, .testimonial-widget li a, .testimonial-widget li p, #search_mini, .newsletter-input input, .newsletter-submit input, .features-tab-container .features-tab-labels li, .features-tab-content, .portfolio-libra .work-projects ul.pagination_nav li a, .widget.text-image, .text-color { font-size: 13px; font-family: 'Monda', sans-serif; color: #373736; font-style: normal; font-weight: 400; }
+a, a.text-color:hover, ul.filters li a:hover, ul.filters li a.active { color: #b27b06; }
+a:hover, body .login_register a:hover, #multistep_step1 .step1_login_form form.login_checkout .lost_password:hover, .portfolio-libra .work-projects ul.pagination_nav li a:hover, a:hover .title-highlight, .sbHolder .sbOptions a:hover { color: #985d14; }
+#page-meta #yit-breadcrumb, #page-meta #yit-breadcrumb a, .breadcrumbs span { font-size: 11px; font-family: 'Monda', sans-serif; color: #555453; font-style: normal; font-weight: 400; }
+#page-meta #yit-breadcrumb a:hover { color: #985d14; }
+#page-meta #yit-breadcrumb a.current { color: #8e5c0d; }
+h1, h1 a { font-size: 22px; font-family: 'Monda', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
+h2, h2 a { font-size: 20px; font-family: 'Monda', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
+h3, h3 a { font-size: 17px; font-family: 'Monda', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
+h4, h4 a { font-size: 16px; font-family: 'Monda', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
+h5, h5 a { font-size: 15px; font-family: 'Monda', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
+h6, h6 a { font-size: 14px; font-family: 'Monda', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
+.slogan h2 { font-size: 24px; font-family: 'Monda', sans-serif; color: #353333; font-style: normal; font-weight: 400; }
+.slogan h3 { font-size: 18px; font-family: 'Monda', sans-serif; color: #808080; font-style: normal; font-weight: 400; }
+.special-font, #header #logo #tagline span.special-font { font-size: 12px; font-family: 'Great Vibes', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+h1 span.title-highlight, h2 span.title-highlight, h3 span.title-highlight, h4 span.title-highlight, h5 span.title-highlight, h6 span.title-highlight, .box-sections span.title-highlight, .box-sections-border span.title-highlight { color: #cc9833; }
+#back-top a, #back-top a:hover { font-size: 12px; font-family: 'Monda', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+#header #logo #textual, span.logo { font-size: 48px; font-family: 'Monda', sans-serif; color: #2f2f2f; font-style: normal; font-weight: 400; }
+#header #logo #textual span { font-size: 48px; font-family: 'Monda', sans-serif; color: #b27b06; font-style: normal; font-weight: 400; }
+#header #logo #tagline { font-size: 14px; font-family: 'Monda', sans-serif; color: #959494; font-style: normal; font-weight: 400; }
+#header #logo #tagline span { font-size: 14px; font-family: 'Monda', sans-serif; color: #b27b06; font-style: normal; font-weight: 400; }
+#topbar, #topbar a, #topbar span, #topbar li:after, #topbar input, #topbar .menu li a { font-size: 11px; font-family: 'Monda', sans-serif; color: #7b7979; font-style: normal; font-weight: 400; }
+#topbar .welcome_username span, #topbar a:hover, #topbar .menu li a:hover { color: #b27b06; }
+#nav ul li, #nav ul li a, #nav .megamenu ul.sub-menu li.menu-item-custom-content p, #nav ul li, #nav ul li a span.special-font, #nav .megamenu ul.sub-menu li.menu-item-custom-content p span.special-font { font-size: 14px; font-family: 'Monda', sans-serif; color: #353333; font-style: normal; font-weight: 400; }
+#nav ul li a:hover, #nav li:hover > a, #nav ul li a:hover span, #nav li:hover > a span { color: #bc8c27; }
+#nav .current-menu-item > a, #nav .current-menu-ancestor > a, div#nav ul .current_page_item > a, #nav .current_page_ancestor > a, #nav .current-menu-ancestor > a, #nav .current-menu-item > a span, #nav .current-menu-ancestor > a span, div#nav ul .current_page_item > a span, #nav .current_page_ancestor > a span, #nav .current-menu-ancestor > a span { color: #bc8c27; }
+#nav ul li ul li a, #nav .megamenu ul.sub-menu li li a, #nav ul li ul li a span.special-font, #nav .megamenu ul.sub-menu li li a span.special-font { font-size: 12px; font-family: 'Monda', sans-serif; color: #666767; font-style: normal; font-weight: 400; }
+#nav ul li ul li a:hover, #nav .megamenu ul.sub-menu li li a:hover, #nav ul li ul li a:hover span, #nav .megamenu ul.sub-menu li li a:hover span { color: #bc8c27; }
+#nav ul ul .current-menu-item > a, #nav ul ul .current-menu-ancestor > a, div#nav ul ul .current_page_item > a, #nav .megamenu ul.sub-menu li a, #nav ul ul .current-menu-item > a span, #nav ul ul .current-menu-ancestor > a span, div#nav ul ul .current_page_item > a span, #nav .megamenu ul.sub-menu li a span { color: #bc8c27; }
+#nav .megamenu ul.sub-menu li a, #nav .megamenu ul.sub-menu li a span.special-font { font-size: 12px; font-family: 'Monda', sans-serif; color: #010101; font-style: normal; font-weight: 400; }
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6.sidebar .cta .border h3, .sidebar .yit_quick_contact h3, .widget.widget_onsale h3, .widget.widget_best_sellers h3, .widget.widget_recent_products h3, .widget.widget_top_rated_products h3, .widget.widget_random_products h3, .widget.widget_featured_products h3, .widget.widget_recently_viewed_products h3 { font-size: 14px; font-family: 'Monda', sans-serif; color: #a76c23; font-style: normal; font-weight: 400; }
+.sidebar p, .sidebar li, .sidebar div, .sidebar a, #wp-calendar th, #wp-calendar td, .woocommerce ul.cart_list li a, .woocommerce-page ul.cart_list li a, .woocommerce ul.product_list_widget li a, .woocommerce-page ul.product_list_widget li a { font-size: 11px; font-family: 'Monda', sans-serif; color: #4f4d4d; font-style: normal; font-weight: 400; }
+.sidebar a { color: #995d08; }
+.sidebar a:hover { color: #aa620d; }
+.testimonial-widget li blockquote p, .testimonial-widget li blockquote p:first-child { font-size: 12px; font-family: 'Monda', sans-serif; color: #4f4d4d; font-style: normal; font-weight: 400; }
+.testimonial-widget li .name-testimonial { font-size: 14px; font-family: 'Monda', sans-serif; color: #909091; font-style: normal; font-weight: 400; }
+.home-row .home-widget { background-color: #ffffff; background-color: rgba( 255, 255, 255, 0.8 ); }
+.home-row .home-widget .widget-wrap, .home-row .home-widget .widget-wrap.widget-last { border-color: #c5c1be; }
+.home-row .home-widget h3 { font-size: 13px; font-family: 'Monda', sans-serif; color: #985d14; font-style: normal; font-weight: 400; }
+.home-row .home-widget p { font-size: 12px; font-family: 'Monda', sans-serif; color: #5e5c5c; font-style: normal; font-weight: 400; }
+.yit_quick_contact .contact-form li.submit-button input.sendmail { color: #ffffff; }
+#header-container #header-cart { background-color: #ffffff; background-color: rgba( 255, 255, 255, 0.94 ); }
+#header-container #header-cart .border, #header-container #header-cart .border .topbar-border { border-color: #d3d2d2; }
+#header-cart .widget_shopping_cart .cart_wrapper { background-color: #ffffff; }
+#header-cart .widget_shopping_cart .cart_wrapper .widget_shopping_cart_content,  #header-cart .widget_shopping_cart .cart_wrapper .widget_shopping_cart_content ul.cart_list li { border-color: #dcdcdc; }
+#header-cart .widget_shopping_cart .cart_wrapper .buttons .button.checkout { background-color: #605f5e; }
+#header-cart .widget_shopping_cart .cart_wrapper .buttons .button.checkout:hover { background-color: #828282; }
+#header-cart .widget_shopping_cart .cart_wrapper .buttons .button { background-color: #bc7f3e; }
+#header-cart .widget_shopping_cart .cart_wrapper .buttons .button:hover { background-color: #e79c0c; }
+#primary ul.products li.product.grid a.button { background-color: #BC7F3E; color: #ffffff; }
+#primary ul.products li.product.grid a.button:hover { background-color: #c88e51; color: #ffffff; }
+#primary ul.products li.product a.button.out-of-stock { background-color: #8e0404; color: #fff; }
+ul.products li.product.list .button { background-color: #bc7f3e; color: #ffffff; }
+.woocommerce ul.products li.product.list .button:hover { background-color: #c88e51; }
+ul.products li.product.list .button:hover { color: #ffffff; }
+#primary ul.products li.product.grid.classic.with-border a.thumb { border-color: #dcd9d3; }
+#primary ul.products li.product.grid.classic.with-border a.thumb:hover { border-color: #f4c491; }
+.product .single_add_to_cart_button, .cart .button, input.checkout-button.alt.button, .shipping-calculator-form .button, .multistep_step .button, #place_order.button, .single-product .single_add_to_cart_button.button.alt, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button { background-color: #605f5e; }
+div.product form.cart .button:hover, #content div.product form.cart .button:hover, .cart .button:hover, input.checkout-button.alt.button:hover, .shipping-calculator-form .button:hover, .multistep_step .button:hover, #place_order.button:hover, .single-product .single_add_to_cart_button.button.alt:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page #content input.button:hover { background-color: #bc7f3e; }
+.woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt { background-color: #bc7f3e; }
+.woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page #content input.button.alt:hover { background-color: #605f5e; }
+.product .summary .single_add_to_cart_button, .cart .button, input.checkout-button.alt.button, .shipping-calculator-form .button, .multistep_step .button, #place_order.button, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button, .woocommerce a.button.alt, .home-widget .newsletter-call3 .newsletter-submit .submit-field { color: #FFFFFF; }
+div.product form.cart .button:hover, #content div.product form.cart .button:hover, .cart .button:hover, input.checkout-button.alt.button:hover, .shipping-calculator-form .button:hover, .multistep_step .button:hover, #place_order.button:hover,  .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page #content input.button:hover, .woocommerce a.button.alt:hover, .home-widget .newsletter-call3 .newsletter-submit .submit-field:hover { color: #FFFFFF; }
+.widget.widget_price_filter .price_slider_wrapper .ui-widget-content { background-color: #DADADA; }
+.widget.widget_price_filter .ui-slider .ui-slider-range, .widget.widget_price_filter .ui-slider .ui-slider-handle { background-color: #CD8906; }
+.widget.widget_layered_nav .sizes li.chosen .size-filter { color: #c38204; border-color: #dec084; }
+.faq-title .minus, #sidebar-shop-sidebar .widget .minus { background-color: #C58408; }
+.faq-title .plus, #sidebar-shop-sidebar .widget .plus { background-color: #2C2B2B; }
+.widget.widget_layered_nav li a, .widget_product_categories .product-categories li a, .widget.widget_layered_nav .sizes li .size-filter { color: #4F4D4D; }
+.widget.widget_layered_nav li a:hover, .widget_product_categories .product-categories li a:hover, .woocommerce .widget_layered_nav ul li.chosen a:after, .woocommerce .widget_layered_nav ul li.chosen a:before, .woocommerce .widget_layered_nav ul li.chosen a, .widget_product_categories .product-categories li.current-cat a, .widget.widget_layered_nav .sizes li .size-filter:hover, .widget.widget_layered_nav .sizes li.chosen .size-filter { color: #AA7309;  border-color: #AA7309; }
+.single-layout-1 #header, .single-layout-1 #primary { background: #f2efea; }
+.single-product-1.woocommerce div.product .product_title.upper, .single-layout-1.woocommerce div.product div.images .thumbnails img, .single-layout-1.woocommerce #primary div.product .summary form.cart table.variations, .single-layout-1.woocommerce div.product form.cart table.variations td, .single-layout-1.woocommerce .yith_magnifier_lens { border-color: #c5c4c4; }
+ul.products li.product .product-thumbnail .thumbnail-wrapper .added { background-image: url('http://localhost/ecomshop/wp-content/themes/room09/woocommerce/images/bullets/added.png'); }
+#header-cart span.cart-label { font-size: 11px; font-family: 'Monda', sans-serif; color: #353333; font-style: normal; font-weight: 400; }
+#header-cart .widget_shopping_cart .cart_label span { font-size: 11px; font-family: 'Monda', sans-serif; color: #6c6c6c; font-style: normal; font-weight: 400; }
+#header-cart .yit_cart_widget.widget_shopping_cart .cart_wrapper ul.cart_list li a { font-size: 12px; font-family: 'Monda', sans-serif; color: #373736; font-style: normal; font-weight: 400; }
+#header-cart .yit_cart_widget.widget_shopping_cart .cart_wrapper ul.cart_list li a:hover { color: #995D08; }
+#header-cart .yit_cart_widget.widget_shopping_cart ul.product_list_widget li .quantity, #header-cart .yit_cart_widget.widget_shopping_cart ul.product_list_widget li .amount { font-size: 12px; font-family: 'Monda', sans-serif; color: #8b8b84; font-style: normal; font-weight: 400; }
+#header-cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .total, #header-cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .total .amount { font-size: 12px; font-family: 'Monda', sans-serif; color: #373736; font-style: normal; font-weight: 400; }
+#header-cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .cart_list li.empty { font-size: 12px; font-family: 'Monda', sans-serif; color: #373736; font-style: normal; font-weight: 400; }
+#header-cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .buttons .button { font-size: 10px; font-family: 'Monda', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+.woocommerce ul.products li.product h3, ul.products li.product h3, .woocommerce ul.products li.product.grid.classic h3 { font-size: 14px; font-family: 'Monda', sans-serif; color: #a96e2e; font-style: normal; font-weight: 400; }
+.woocommerce ul.products li.product .price { font-size: 14px; font-family: 'Monda', sans-serif; color: #5e5c5c; font-style: normal; font-weight: 400; }
+.woocommerce .product .product-actions, .woocommerce .product .product-actions a { font-size: 11px; font-family: 'Monda', sans-serif; color: #a3a1a1; font-style: normal; font-weight: 400; }
+.woocommerce .product .product-actions:hover, .woocommerce .product .product-actions a:hover, .woocommerce .product .product-actions a.active { color: #985d14; }
+.product .summary h1.product_title { font-size: 18px; font-family: 'Monda', sans-serif; color: #353333; font-style: normal; font-weight: 400; }
+.woocommerce div.product .summary p.price { font-size: 18px; font-family: 'Monda', sans-serif; color: #353333; font-style: normal; font-weight: 400; }
+.sidebar .widget_price_filter.widget h3, .sidebar .widget_layered_nav.widget h3 { font-size: 14px; font-family: 'Oswald', sans-serif; color: #373736; font-style: normal; font-weight: 400; }.blog-big .meta, .blog-small .meta { background: #ffffff; }

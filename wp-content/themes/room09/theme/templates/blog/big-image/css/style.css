@@ -1,0 +1,187 @@
+.blog-big-image {
+    margin-bottom: 45px;
+}
+
+.blog-big-image-meta-single {
+    margin-top: 45px;
+}
+
+.blog-big-image-meta > div,
+.blog-big-image-meta-single > div,
+.blog-big-image .the-content-quote blockquote {
+    border: 1px solid #d3d2d2;
+    position: relative;
+    padding: 6px 14px 0px 14px;
+}
+
+.blog-big-image-meta p,
+.blog-big-image-meta-single p{
+    border-bottom: 1px solid #d3d2d2;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+.blog-big-image-meta-single p,
+.blog-big-image-meta-single div.group {
+    float: left;
+    border-bottom: none;
+    border-right: 1px solid #d3d2d2;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-bottom: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.blog-big-image-meta p:last-child { border-bottom: none; padding-bottom: 0; }
+.blog-big-image-meta p.last-child { border-bottom: none; padding-bottom: 0; }
+.blog-big-image-meta-single p:last-child, .blog-big-image-meta-single div.group { border-right: none; padding-right: 0; }
+.blog-big-image-meta-single p.last-child { border-right: none; padding-right: 0; }
+
+
+.blog-big-image-meta span,
+.blog-big-image-meta-single span {
+    display: block;
+}
+
+.blog-big-image-meta p a,
+.blog-big-image-meta-single p a {
+    font-size: 12px;
+    color: #808080;
+}
+
+.blog-big-image-meta p a:hover,
+.blog-big-image-meta-single p a:hover {
+    color: #373636;
+}
+
+.blog-big-image-meta span.share,
+.blog-big-image-meta-single span.share {
+    font-size: 12px;
+}
+
+.blog-big-image-meta .socials {
+    float: left;
+    margin-bottom: 10px;
+}
+
+.blog-big-image-meta .socials,
+.blog-big-image-meta-single .socials {
+    margin-top: 11px;
+}
+
+.blog-big-image-meta-single .socials {
+    margin-top: 2px;
+}
+
+.blog-big-image .thumbnail {
+    border: 9px solid #e6e2d8;
+    padding: 0;
+    margin-bottom: 15px;
+    position: relative;
+
+    box-shadow: 0;
+    -moz-box-shadow: 0;
+    -webkit-box-shadow: 0;
+
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
+.blog-big-image .without.thumbnail {
+    border: none;
+}
+
+.blog-big-image .blog-big-image-date {
+    position: absolute;
+    top: 18px;
+    left: 25px;
+    background: #fff;
+    background: rgba(255,255,255,.79);
+    padding: 18px;
+    margin: 0;
+}
+.blog-big-image .without.thumbnail .blog-big-image-date {
+    display: none;
+}
+
+.blog-big-image .blog-big-image-date span {
+    display: block;
+    text-transform: uppercase;
+}
+
+.blog-big-image .blog-big-image-date span.month {
+    margin-left: 3px;
+}
+
+.blog-big-image .blog-big-image-date span.day {
+    line-height: 48px;
+}
+
+.blog-big-image-meta > div:after,
+.blog-big-image .blog-big-image-date:after,
+.blog-big-image-meta-single > :after,
+.blog-big-image .the-content-quote blockquote:after {
+    content: " ";
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    right: 3px;
+    bottom: 3px;
+    border: 1px solid #d3d2d2;
+    z-index: 0;
+}
+
+.blog-big-image-meta > div > *,
+.blog-big-image .blog-big-image-date > *,
+.blog-big-image .the-content-quote blockquote > * {
+    position: relative;
+    z-index: 1;
+}
+
+.blog-big-image .blog-big-image-date:after {
+    z-index: 0;
+}
+
+.blog-big-image .thumbnail .images-slider-sc li { margin-bottom: 0 }
+
+.blog-big-image .thumbnail .images-slider-sc .flex-direction-nav .flex-prev,
+.blog-big-image .thumbnail .images-slider-sc .flex-direction-nav .flex-next
+{
+    bottom: 6px;
+    right: 6px;
+    top: auto;
+    left: auto;
+}
+.blog-big-image .thumbnail .images-slider-sc .flex-direction-nav .flex-prev {
+    right: 27px;
+}
+
+.blog-big-image .thumbnail .post_video {
+    margin-bottom: 0;
+}
+
+.blog-big-image blockquote {
+    background-position: 0 25px;
+}
+
+.blog-big-image .the-content-quote blockquote {
+    background-position: 20px 25px;
+    padding-bottom: 20px;
+}
+
+.blog-big-image .the-content-quote blockquote a {
+    padding: 25px 10px 0px 40px;
+    display: block;
+}
+
+.blog-big-image cite {
+    display: block;
+    padding-top: 15px;
+    text-align: right;
+}
+
+.blog-big-image .post-title {
+    border-bottom: 1px solid #d3d2d2;
+    padding-bottom: 10px;
+}

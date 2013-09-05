@@ -1,0 +1,619 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Compare Products Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-23 13:21+0700\n"
+"PO-Revision-Date: 2013-02-23 13:21+0700\n"
+"Last-Translator: Nguyen Tuan <mr.nguyencongtuan@gmail.com>\n"
+"Language-Team: a3rev\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/compare_init.php:8
+#: admin/compare_init.php:182
+#: classes/class-wc-compare-filter.php:328
+#: classes/class-wc-compare-filter.php:330
+#: classes/class-wc-compare-functions.php:690
+msgid "Product Comparison"
+msgstr ""
+
+#: admin/compare_init.php:182
+msgid "Compare Settings"
+msgstr ""
+
+#: admin/compare_init.php:296
+msgid "Features"
+msgstr ""
+
+#: admin/compare_init.php:297
+#: admin/classes/class-wc-compare-products.php:291
+msgid "Products"
+msgstr ""
+
+#: admin/compare_init.php:298
+msgid "Settings"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:25
+msgid "Compare Category Successfully edited"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:27
+#: admin/classes/class-wc-compare-categories.php:39
+msgid "That Compare category name already exists or empty. Please try again."
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:34
+msgid "Compare Category Successfully created"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:36
+msgid "Compare Category Error created"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:48
+msgid "Compare Category deleted"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:57
+msgid "Edit Compare Product Categories"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:57
+msgid "Add Compare Product Categories"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:58
+msgid "Create Categories based on groups of products that share the same compare feature list."
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:72
+msgid "Edit Category Name"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:72
+msgid "Category Name"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:78
+#: admin/classes/class-wc-compare-fields.php:172
+msgid "Save"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:78
+#: admin/classes/class-wc-compare-fields.php:172
+msgid "Create"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:78
+#: admin/classes/class-wc-compare-fields.php:172
+#: admin/classes/class-wc-compare-products.php:211
+msgid "Cancel"
+msgstr ""
+
+#: admin/classes/class-wc-compare-categories.php:94
+msgid "You just save the order for compare categories."
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:45
+msgid "Compare Feature Successfully edited"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:47
+#: admin/classes/class-wc-compare-fields.php:66
+msgid "That Compare Feature Name already exists. Please try again"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:60
+msgid "Compare Feature Successfully created"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:62
+msgid "Compare Feature Error created"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:76
+#: admin/classes/class-wc-compare-fields.php:90
+msgid "Compare Feature successfully deleted"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:78
+msgid "Please select item(s) to delete"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:86
+msgid "Compare Feature successfully removed"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:103
+msgid "Edit Compare Product Features"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:103
+msgid "Add Compare Product Features"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:119
+msgid "Edit Compare Features"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:119
+msgid "Create New Compare Features"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:124
+#: admin/classes/class-wc-compare-fields.php:292
+#: admin/classes/class-wc-compare-fields.php:381
+msgid "Feature Name"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:124
+msgid "This is the Feature Name that users see in the Compare Fly-Out Window, for example-  System Height"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:126
+msgid "Feature Unit of Measurement"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:126
+msgid "e.g kgs, mm, lbs, cm, inches - the unit of measurement shows after the Feature name in (brackets). If you leave this blank you will just see the Feature name."
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:128
+msgid "Feature Input Type"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:142
+msgid "Users don't see this. Use to set the data input field type that you will use on to enter the Products data for this feature."
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:145
+msgid "Enter Input Type options"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:145
+msgid "You have selected one of the Check Box, Radio Button, Drop Down, Mutli Select Input Types. Type your Options here, one line for each option."
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:149
+msgid "Assign Feature to Categories"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:164
+msgid "Assign features to one or more Categories. Features such as Colour, Size, Weight can be applicable to many Product categories. Create the Feature once and assign it to one or multiple categories."
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:183
+msgid "Manage Compare Categories and Features"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:184
+msgid "Use drag and drop to change Category order and Feature order within Categories."
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:200
+#: admin/classes/class-wc-compare-fields.php:214
+#: admin/classes/class-wc-compare-fields.php:307
+#: admin/classes/class-wc-compare-fields.php:393
+#: admin/classes/class-wc-compare-products.php:82
+#: admin/classes/class-wc-compare-products.php:113
+#: admin/classes/class-wc-compare-products.php:283
+msgid "Edit"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:200
+#: admin/classes/class-wc-compare-fields.php:307
+#: admin/classes/class-wc-compare-fields.php:312
+#: admin/classes/class-wc-compare-fields.php:393
+msgid "Delete"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:200
+#: admin/classes/class-wc-compare-fields.php:307
+#: admin/classes/class-wc-compare-fields.php:393
+msgid "Are you sure you want to delete"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:214
+msgid "Are you sure you want to remove"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:214
+msgid "from"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:214
+msgid "Remove"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:219
+msgid "You have not assigned any Features to this category yet. No Hurry!"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:285
+msgid "Un-Assigned Features (Assign to a Category to activate)"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:291
+#: admin/classes/class-wc-compare-products.php:278
+msgid "No"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:293
+#: admin/classes/class-wc-compare-fields.php:382
+msgid "Type"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:312
+msgid "Are you sure about deleting this?"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:328
+msgid "You just save the order for Compare Features."
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:335
+msgid "Categories & Features"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:335
+msgid "Add New"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:348
+msgid "Search Features"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:374
+msgid "Found"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:374
+msgid "feature(s)"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:401
+msgid "Show"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:412
+msgid "Go"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:413
+msgid "Displaying"
+msgstr ""
+
+#: admin/classes/class-wc-compare-fields.php:413
+msgid "of"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:71
+#: admin/classes/class-wc-compare-products.php:102
+msgid "Activated"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:72
+#: admin/classes/class-wc-compare-products.php:103
+msgid "Deactivated"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:188
+#: classes/class-wc-compare-metabox.php:64
+#: classes/class-wc-compare-metabox.php:206
+msgid "Activate Compare Feature for this Product"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:189
+#: classes/class-wc-compare-metabox.php:65
+#: classes/class-wc-compare-metabox.php:207
+msgid "Select a  Compare Category for this Product"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:191
+#: classes/class-wc-compare-metabox.php:67
+#: classes/class-wc-compare-metabox.php:209
+msgid "Select..."
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:210
+msgid "Update"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:257
+msgid "Compare Product Feature Fields Successfully updated."
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:261
+msgid "WooCommerce Compare Products Manager"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:279
+#: admin/classes/class-wc-compare-products.php:286
+msgid "Product Name"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:280
+msgid "Product Category"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:281
+msgid "Compare Category"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:282
+msgid "Activated / Deactivated"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:292
+msgid "Find Product Name"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:319
+msgid "Product Compare Feature Fields"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:68
+msgid "Compare Settings Successfully saved."
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:71
+msgid "Compare Settings Successfully reseted."
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:76
+msgid "Compare Fly-Out Window Setup"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:81
+msgid "Add Fly-Out Header Image"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:82
+msgid "Full image URL. File formats .jpg, .pgn, .jpeg. Any size."
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:85
+msgid "Open Compare in"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:87
+msgid "On Screen Window"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:88
+msgid "New Window"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:88
+msgid "(more mobile device friendly)"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:92
+msgid "Product Page Compare Buttons"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:96
+msgid "Button Position relative to Add to Cart Button"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:97
+msgid "Above"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:97
+msgid "Padding Bottom"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:99
+msgid "Below"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:99
+msgid "Padding Top"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:101
+msgid "Change position if Compare Button does not show on the frontend."
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:105
+msgid "Default Button setting"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:106
+#: admin/classes/class-wc-compare-settings.php:110
+msgid "Yes"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:109
+msgid "Manually set Compare button position"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:110
+msgid "Select to manually set / change the default position of the Compare Button on product pages"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:111
+msgid "Use this function to manually postion the Compare button on product pages"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:114
+msgid "Button or Text"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:115
+msgid "Button"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:115
+msgid "Link"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:115
+msgid "Show Compare feature on products as a Button or Hyperlink Text."
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:116
+msgid "Manual styling Class names - Compare Button 'bt_compare_this', sidebar widget button 'compare_button_go'"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:119
+msgid "Button or hyperlink text"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:120
+msgid "Set text to show on Compare Button / Link on Product pages"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:124
+msgid "Compare product page navigation tab"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:128
+msgid "Compare Features tab"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:130
+msgid "Before Description tab"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:131
+msgid "Between  Description and Additional tabs"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:132
+msgid "Between  Additional and Reviews tabs"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:133
+msgid "After Reviews tab"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:134
+msgid "Do not auto show"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:134
+msgid "Select the position of the Compare Features tab on the default WooCommerce product page Nav bar. Products Compare feature list shows under the tab."
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:137
+msgid "Compare Featured tab"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:138
+msgid "Set tab name"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:141
+msgid "Manually set Compare Features list"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:142
+msgid "Show Compare Featured fields anywhere in your theme with this function"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:147
+msgid "Save changes"
+msgstr ""
+
+#: admin/classes/class-wc-compare-settings.php:148
+msgid "Reset Settings"
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:65
+#: classes/class-wc-compare-filter.php:85
+#: classes/class-wc-compare-filter.php:104
+#: classes/class-wc-compare-filter.php:124
+#: classes/class-wc-compare-filter.php:143
+msgid "Compare this"
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:178
+#: classes/class-wc-compare-filter.php:179
+#: classes/class-wc-compare-filter.php:208
+#: classes/class-wc-compare-filter.php:209
+#: classes/class-wc-compare-functions.php:421
+#: classes/class-wc-compare-functions.php:422
+#: classes/class-wc-compare-functions.php:424
+msgid "N/A"
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:307
+msgid "Clear All"
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:309
+#: classes/class-wc-compare-functions.php:311
+msgid "Compare"
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:315
+#: classes/class-wc-compare-functions.php:446
+msgid "You do not have any product to compare."
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:396
+msgid "Add to cart"
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:603
+#: classes/class-wc-compare-functions.php:606
+msgid "Back"
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:620
+#: classes/class-wc-compare-functions.php:623
+msgid "Next"
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:24
+msgid "Compare Feature Fields"
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:146
+#: classes/class-wc-compare-metabox.php:289
+msgid "Select value"
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:190
+#: classes/class-wc-compare-metabox.php:333
+msgid "There are no Features created for this category, please add some."
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:190
+#: classes/class-wc-compare-metabox.php:333
+msgid "This page"
+msgstr ""
+
+#: widgets/compare_widget.php:22
+msgid "WOO Compare Products"
+msgstr ""
+
+#: widgets/compare_widget.php:38
+#: templates/product-compare.php:23
+#: templates/product-compare.php:25
+msgid "Compare Products"
+msgstr ""
+
+#: widgets/compare_widget.php:60
+msgid "Title"
+msgstr ""
+
+#: templates/product-compare.php:28
+msgid "Close window"
+msgstr ""
+
+#: templates/product-compare.php:29
+msgid "Print this page"
+msgstr ""
+
+#: templates/product-compare.php:31
+msgid "Refine slections to 3 products and print!"
+msgstr ""
+

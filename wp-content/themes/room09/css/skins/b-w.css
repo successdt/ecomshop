@@ -1,0 +1,41 @@
+#header-container { margin-bottom:0; }
+.slogan h2 { margin-top:45px; }
+
+#nav .current-menu-item > a > .sf-sub-indicator,
+#nav .current_page_ancestor > a > .sf-sub-indicator,
+#nav .current-menu-ancestor > a > .sf-sub-indicator,
+div#nav ul .current_page_item > a > .sf-sub-indicator,
+#nav a:focus >.sf-sub-indicator,
+#nav a:hover >.sf-sub-indicator,
+#nav a:active >.sf-sub-indicator,
+#nav li:hover >a >.sf-sub-indicator,
+#nav li.sfHover >a >.sf-sub-indicator {
+    background-position: -64px -202px;
+}
+
+#nav ul.sub-menu a > .sf-sub-indicator,
+#nav ul.children a > .sf-sub-indicator {
+    background-position: -80px -177px;
+}
+
+#nav ul.sub-menu a:focus >.sf-sub-indicator,
+#nav ul.sub-menu a:hover >.sf-sub-indicator,
+#nav ul.sub-menu a:active >.sf-sub-indicator,
+#nav ul.sub-menu li:hover >a >.sf-sub-indicator,
+#nav ul.sub-menu li.sfHover >a >.sf-sub-indicator,
+#nav ul.children a:focus >.sf-sub-indicator,
+#nav ul.children a:hover >.sf-sub-indicator,
+#nav ul.children a:active >.sf-sub-indicator,
+#nav ul.children li:hover >a >.sf-sub-indicator,
+#nav ul.children li.sfHover >a >.sf-sub-indicator {
+    background-position: -80px -205px;
+}
+
+.ei-slider-thumbs li.ei-slider-element {
+    background-color: #d4d4d3;
+}
+
+.single-product.woocommerce #primary div.product .woocommerce-tabs.vertical ul.tabs li.active a,
+.single-product.woocommerce #primary div.product .woocommerce-tabs.vertical ul.tabs li a:hover {
+    color:#330000;
+}
