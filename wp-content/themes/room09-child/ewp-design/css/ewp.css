@@ -1,0 +1,10 @@
+#header-container .span12 {
+	background-color: transparent !important;
+	background: url('../images/wash-white-30.png') repeat;
+}
+#header-container .span12 > div.border {
+	background-color: rgba(255, 255, 255, 0.8);
+}
+#nav ul li a {
+	color: #F20000 ;
+}
