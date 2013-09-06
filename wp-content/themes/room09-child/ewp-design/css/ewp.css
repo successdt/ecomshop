@@ -5,6 +5,68 @@
 #header-container .span12 > div.border {
 	background-color: rgba(255, 255, 255, 0.8);
 }
-#nav ul li a {
-	color: #F20000 ;
+#nav a , p, a, span, h1, h2, h3{
+	font-family:"Arial",Georgia,Serif !important;
+}
+
+#nav ul.level-1 > li {
+	background-color: #EE314F;
+}
+#nav ul.level-1 > li > a {
+	color: #FFF ;
+}
+#nav ul.level-1 > li > a:hover {
+	color: #B7B6B6 ;
+}
+#nav ul.sub-menu li a:hover {
+	color: #1351FB;
+}
+p#tagline {
+	color: #EE314F !important;
+	font-family:"Times New Roman",Georgia,Serif !important;
+}
+#footer {
+	background-color: #FDEDF2;
+}
+#footer h3, .home-row .home-widget h3 {
+	color: #EE314F !important;
+	font-weight: bold !important;
+}
+#footer a {
+	color: #737373 !important;
+}
+#footer a:hover {
+	color: #ED314F !important;
+}
+#copyright {
+	background: #EE314F !important;
+}
+.tp-caption.monda_orange_18, .products h3 {
+	color: #EE314F !important;
+}
+#primary ul.products li.product.grid a.button, #back-top, .submit-field{
+	background-color: #EE314F !important;
+	color: #FFF;
+}
+.widget.widget_price_filter .ui-slider .ui-slider-range, .widget.widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #EE314F !important;
+}
+.faq-title .minus, #sidebar-shop-sidebar .widget .minus {
+	background-color: #EE314F !important;
+}
+#back-top {
+	outline: 1px solid #FFF;
+}
+#popupWrap {
+	background: url('../images/wash-white-30.png') repeat !important;
+}
+#popupWrap .popup .border {
+	border: none !important;
+	background: none !important;
+}
+#popupWrap .popup .border-2 {
+	background: #FFF !important;
+}
+.wpsr-floatbar-float_left {
+	border-radius: 0px;
 }
