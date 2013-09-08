@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Room09\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-06 12:28+0100\n"
-"PO-Revision-Date: 2013-09-06 16:35+0700\n"
+"PO-Revision-Date: 2013-09-07 14:58+0700\n"
 "Last-Translator: Nicola Mustone <mail@nicolamustone.it>\n"
 "Language-Team: Your Inspiration Themes <support@yithemes.com>\n"
 "MIME-Version: 1.0\n"
@@ -4439,7 +4439,7 @@ msgstr ""
 #: theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:271
 #: theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:280
 msgid "Archives"
-msgstr ""
+msgstr "Lưu trữ"
 
 #: core/yit/Submenu/Theme_option.php:81
 #: theme/plugins/gravityforms/entry_list.php:595
@@ -15929,7 +15929,7 @@ msgstr ""
 #: theme/plugins/woocommerce-compare-products-pro/classes/class-wc-compare-functions.php:310
 #: theme/plugins/woocommerce-compare-products-pro/classes/class-wc-compare-functions.php:312
 msgid "Compare"
-msgstr ""
+msgstr "So sánh"
 
 #: theme/plugins/woocommerce-compare-products-pro/classes/class-wc-compare-functions.php:316
 #: theme/plugins/woocommerce-compare-products-pro/classes/class-wc-compare-functions.php:446
@@ -16585,7 +16585,7 @@ msgstr ""
 #: theme/templates/blog/small-image/markup.php:123
 #: theme/templates/blog/small-image/markup.php:175
 msgid "Share it"
-msgstr ""
+msgstr "Chia sẻ"
 
 #: theme/templates/blog/big-image/markup.php:101
 #: theme/templates/blog/big-ribbon/post-formats/gallery.php:59
@@ -16728,7 +16728,7 @@ msgstr ""
 
 #: theme/templates/header/login.php:21
 msgid "LOGIN"
-msgstr ""
+msgstr "ĐĂNG HẬP"
 
 #: theme/templates/header/login.php:42
 msgid "Password Lost and Found"
@@ -16740,7 +16740,7 @@ msgstr ""
 
 #: theme/templates/header/login.php:56
 msgid "LOGOUT"
-msgstr ""
+msgstr "ĐĂNG XUẤT"
 
 #: theme/templates/header/map.php:61
 msgid "VIEW MAP"

@@ -336,6 +336,7 @@ function yit_add_sampledata_install_message() {
  */
 function yit_back_to_top() {
     if ( yit_get_option('back-top') ) {
-        echo '<div id="back-top"><a href="#top">' . __('Back to top', 'yit') . '</a></div>';
+        //echo '<div id="back-top"><a href="#top">' . __('Back to top', 'yit') . '</a></div>';
+        echo '<div id="back-top"><a href="#top">' . __('Lên đầu trang', 'yit') . '</a></div>';
     }
 }
