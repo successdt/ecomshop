@@ -44,9 +44,10 @@ p#tagline {
 .tp-caption.monda_orange_18, .products h3 {
 	color: #EE314F !important;
 }
-#primary ul.products li.product.grid a.button, #back-top, .submit-field{
+#primary ul.products li.product.grid a.button, #back-top, .submit-field, .not-btn.more-link{
 	background-color: #EE314F !important;
 	color: #FFF;
+	box-shadow: none;
 }
 .widget.widget_price_filter .ui-slider .ui-slider-range, .widget.widget_price_filter .ui-slider .ui-slider-handle {
 	background-color: #EE314F !important;

@@ -93,7 +93,7 @@ div.yit_quick_contact, .woocommerce ul.cart_list li, .woocommerce-page ul.cart_l
 .teaser .image p:hover, .teaser .image p a:hover, .yit_quick_contact .contact-form li.submit-button input.sendmail:hover, .sidebar .cta .newsletter-submit .submit-field:hover, #footer .cta .newsletter-submit .submit-field:hover, .home-widget .newsletter-call3 .newsletter-submit .submit-field:hover { background-color: #E79C0C; }
 .teaser .image p:hover, .yit_quick_contact .contact-form li.submit-button input.sendmail:hover, .sidebar .cta .newsletter-submit .submit-field:hover, #footer .cta .newsletter-submit .submit-field:hover, .home-widget .newsletter-call3 .newsletter-submit .submit-field:hover { color: #FFFFFF; }
 #back-top { background-color: #93866d; }
-#header { background-color: #CFC8C0; background-image: url('http://shop.dev/wp-content/uploads/2013/09/Fashion-Wallpaper-HD-Wallpapers-Models-141.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: scroll; min-height: 150px; }
+#header { background-color: #CFC8C0; background-image: url('http://localhost/ecomshop/wp-content/uploads/2013/04/header-shop1.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: scroll; min-height: 392px; }
 #header-container .span12, #header-container .span10, #header-container .span2 { background-color: #ffffff; background-color: rgba( 255, 255, 255, 0.94 ); }
 #header-container .span12 > div.border, #header-container .span10> div.border, #header-container .span2> div.border { border-color: #d3d2d2; }
 #nav ul.sub-menu, #nav ul.children { background-color: #ffffff; }
