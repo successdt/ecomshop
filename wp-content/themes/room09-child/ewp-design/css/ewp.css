@@ -71,3 +71,10 @@ p#tagline {
 .wpsr-floatbar-float_left {
 	border-radius: 0px;
 }
+.widget_yahoo_skype_status li {
+	display: inline;
+	margin-left: 10px;
+}
+#back-top {
+	bottom: 40px;
+}

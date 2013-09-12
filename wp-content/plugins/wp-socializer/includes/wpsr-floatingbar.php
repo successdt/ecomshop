@@ -19,7 +19,11 @@ function wpsr_process_floatingbts(){
 	
 	$selSplitted = explode(',', $wpsr_floatbts['selectedbts']);
 	$noSel = count($selSplitted);
-	
+	//add by thanhdd@ecomwebpro.com
+	$content .= '
+		<div class="wpsr_floatbt" style="margin-left: 7px;">
+			<iframe scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:55px; height:65px; overflow:hidden;" src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/pages/Thời-Trang-Xinh-Tươi/148520338692413&layout=box_count&show_faces=false&width=100&action=like&font=arial"></iframe>
+		</div>';
 	for($i=0; $i < $noSel; $i++){
 		$content .= '<div class="wpsr_floatbt">' . $wpsr_floating_bar_bts[$selSplitted[$i]][$wpsr_floatbts['position']] . "</div>" ;
 	}
